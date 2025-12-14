@@ -27,18 +27,18 @@ const Footer = () => {
             <h4 className="font-display font-semibold text-lg">Kontakt</h4>
             <div className="space-y-3">
               <a 
-                href="mailto:info@code4community.al" 
+                href="mailto:elektroniksuparaku@gmail.com" 
                 className="flex items-center gap-3 text-sm text-sidebar-foreground/80 hover:text-sidebar-primary transition-colors"
               >
                 <Mail className="w-4 h-4" />
-                info@code4community.al
+                elektroniksuparaku@gmail.com
               </a>
               <a 
-                href="tel:+355123456789" 
+                href="tel:+355692710558" 
                 className="flex items-center gap-3 text-sm text-sidebar-foreground/80 hover:text-sidebar-primary transition-colors"
               >
                 <Phone className="w-4 h-4" />
-                +355 123 456 789
+                +355 69 271 0558
               </a>
               <div className="flex items-center gap-3 text-sm text-sidebar-foreground/80">
                 <MapPin className="w-4 h-4" />
@@ -66,7 +66,7 @@ const Footer = () => {
               © {new Date().getFullYear()} Code4Community Elbasan. Të gjitha të drejtat e rezervuara.
             </p>
             <p className="flex items-center gap-1 text-sm text-sidebar-foreground/60">
-              Krijuar me <Heart className="w-4 h-4 text-destructive fill-destructive" /> për komunitetin
+              Krijuar me <Heart className="w-4 h-4 text-destructive fill-destructive" /> për komunitetin nga Esmerald Suparaku
             </p>
           </div>
         </div>
